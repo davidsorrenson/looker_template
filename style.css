@@ -66,6 +66,10 @@
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
     font-size: 40px; 
+    padding-left: 10px! important;
+    padding-right: 10px! important;
+    padding-top: 30px! important;
+    padding-bottom: 30px! important;
   }
   
   .headerCell.dimension {
@@ -129,8 +133,6 @@
     padding-bottom: 30px! important;
     border-bottom: 1px solid #ededed; 
     font-size: 24px;
-    background-color: #ededed !important;
-      border-radius: 20px !important;
   }
   
   .rowCell.merged {
