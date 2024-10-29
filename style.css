@@ -41,6 +41,10 @@
   .hidden {
       display: none;
   }
+
+.colsales_activityactivity_dt{
+    font-size: 40px;
+}
   
   .hover {
     background-color: #ffffbb;
