@@ -62,6 +62,7 @@
   
   th.headerCell {
     color: black !important;
+    background-color: white !important;
     border-bottom: 1px solid #BDC3C7;
     padding-left: 10px! important;
     padding-right: 10px! important;
