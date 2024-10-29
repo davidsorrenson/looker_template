@@ -53,6 +53,7 @@
     border-collapse: collapse;
     border-spacing: 3px;
     table-layout: fixed;
+    font-size: 24px;
   }
   
   th.headerCell {
