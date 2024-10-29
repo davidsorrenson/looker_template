@@ -123,8 +123,11 @@
   
   .rowCell {
     vertical-align: super;
-    padding: 10px! important;
-    border-bottom: 1px solid #BDC3C7; 
+    padding-left: 10px! important;
+    padding-right: 10px! important;
+      padding-top: 30px! important;
+      padding-bottom: 30px! important;
+    border-bottom: 1px solid #ededed; 
     font-size: 24px;
   }
   
