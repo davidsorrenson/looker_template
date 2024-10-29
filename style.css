@@ -125,10 +125,12 @@
     vertical-align: super;
     padding-left: 10px! important;
     padding-right: 10px! important;
-      padding-top: 30px! important;
-      padding-bottom: 30px! important;
+    padding-top: 30px! important;
+    padding-bottom: 30px! important;
     border-bottom: 1px solid #ededed; 
     font-size: 24px;
+    background-color: #ededed !important;
+      border-radius: 3px !important;
   }
   
   .rowCell.merged {
