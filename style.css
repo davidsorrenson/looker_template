@@ -49,7 +49,7 @@
   
   .reportTable {
     font-family: Open Sans,Helvetica,Arial,Noto Sans TC, Noto Sans SC,sans-serif;
-    color: #ffffff;
+    color: black;
     border-collapse: collapse;
     border-spacing: 3px;
     table-layout: fixed;
