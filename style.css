@@ -6,7 +6,6 @@
   @font-face {
     font-family: 'Noto Sans SC';
     src: url('./fonts/noto-sans-sc-v11-latin_chinese-simplified-regular.woff2') format('woff2');
-    font-size: 24px;
   }
   
   
@@ -54,7 +53,6 @@
     border-collapse: collapse;
     border-spacing: 3px;
     table-layout: fixed;
-    font-size: 24px;
     padding: 10px; 
   }
   
@@ -63,6 +61,7 @@
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
+    font-size: 40px; 
   }
   
   .headerCell.dimension {
